@@ -21,8 +21,6 @@
 🌱 Currently Learning:
 - Web Development
 - Cybersecurity Fundamentals
-- Java OOP Concepts
-- Data Structures & Algorithms
 
 🎯 Goal:
 Become a Cybersecurity Engineer and contribute to Open Source Projects.
@@ -46,7 +44,7 @@ Become a Cybersecurity Engineer and contribute to Open Source Projects.
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,canva" />
 </p>
 
 ### Core Concepts
@@ -93,11 +91,9 @@ Become a Cybersecurity Engineer and contribute to Open Source Projects.
 
 # 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=praveenkumar19&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=praveenkumar19&theme=tokyonight" />
+</p>
 
 ---
 
