@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=PRAVEEN%20KUMAR&fontAlign=50&fontAlignY=40&fontSize=60&desc=Cybersecurity%20Student%20|%20Java%20Developer%20|%20Web%20Developer&descAlignY=60&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=PRAVEEN%20KUMAR&fontAlign=50&fontAlignY=40&fontSize=60&desc=Cybersecurity%20Student%20|%20Frontend%20Developer%20|%20Web%20Developer&descAlignY=60&animation=twinkling"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Cybersecurity+Student;Java+Developer;Python+Programmer;Frontend+Developer;Open+Source+Learner;Future+Security+Engineer" />
 
