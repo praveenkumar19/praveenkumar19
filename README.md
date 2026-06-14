@@ -31,20 +31,24 @@ Become a Cybersecurity Engineer and contribute to Open Source Projects.
 
 ### Programming Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript" />
 </p>
 
 ### Web Technologies
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### Tools & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,canva" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
 ### Core Concepts
@@ -83,17 +87,25 @@ Become a Cybersecurity Engineer and contribute to Open Source Projects.
 
 <div align="center">
 
-[![Praveen's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=praveenkumar19&theme=tokyo-night)](https://github.com/praveenkumar19)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenkumar19&theme=tokyo-night" />
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 Profile Summary
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=praveenkumar19&theme=tokyonight" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praveenkumar19&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=praveenkumar19&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praveenkumar19&theme=tokyonight" />
+
+</div>
 
 ---
 
@@ -101,7 +113,7 @@ Become a Cybersecurity Engineer and contribute to Open Source Projects.
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
@@ -141,7 +153,7 @@ Responsive college website interface and information portal.
 
 # ⚡ Fun Fact
 
-```text
+```java
 while(alive){
     learn();
     build();
