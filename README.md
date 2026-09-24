@@ -1,239 +1,302 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=PRAVEEN%20KUMAR&fontAlign=50&fontAlignY=40&fontSize=58&desc=Cybersecurity%20Student%20%7C%20Frontend%20Developer&descAlignY=62&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=PRAVEEN%20KUMAR&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=CYBERSECURITY%20%7C%20FRONTEND%20DEVELOPMENT&descAlignY=60&descSize=16&animation=fadeIn&color=0:0f2027,50:203a43,100:00c6ff"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FFFF&center=true&vCenter=true&width=750&lines=Cybersecurity+Student;Frontend+Developer;Java+%26+Python+Learner;Building+Modern+Web+Applications;Exploring+Cybersecurity;Learning+%7C+Building+%7C+Securing"/>
+<a href="https://github.com/praveenkumar19">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Student+%7C+Frontend+Developer;Building+Modern+Web+Experiences;Exploring+Secure+Application+Development;Java+%7C+Python+%7C+JavaScript+%7C+React"/>
+</a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=praveenkumar19&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<a href="https://praveenkumar19.github.io/PORTFOLIO/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-00C6FF?style=for-the-badge&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/praveen-kumar-792b8a395/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/praveenkumar19">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=praveenkumar19&label=PROFILE%20VIEWS&color=00c6ff&style=flat-square"/>
 
 </div>
 
 ---
 
-# 👋 About Me
+<div align="center">
 
-Hi, I'm **Praveen Kumar**, a **B.E. CSE (Cyber Security) student** from Chennai, India.
+## `> whoami`
 
-I enjoy building responsive web interfaces while exploring cybersecurity, programming, and secure application development.
+### **Praveen Kumar**
 
-* 🎓 B.E. CSE — Cyber Security
-* 💻 Frontend & Web Development
+**B.E. CSE — Cyber Security**
+
+Chennai, India 🇮🇳
+
+*I build responsive web applications while exploring cybersecurity and secure software development.*
+
+</div>
+
+---
+
+## ⚡ `01` — About Me
+
+<table>
+<tr>
+<td width="55%">
+
+### 👨‍💻 Developer
+
+* 🎓 CSE — Cyber Security
+* 🌐 Frontend & Web Development
 * 🔐 Cybersecurity Fundamentals
 * ☕ Java Programming
 * 🐍 Python Programming
-* 🌐 Responsive Web Design
-* 🌱 Currently improving my development and cybersecurity skills
-* 🚀 Interested in building practical projects and contributing to open-source
+* ⚛️ React Development
+* 🎨 UI/UX & Responsive Design
 
-> **Learning continuously, building practically, and developing with security in mind.**
+</td>
 
----
+<td width="45%">
 
-# 🛠️ Tech Stack
-
-### 💻 Programming
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript" />
-</p>
-
-### 🌐 Web Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### 🔧 Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
-### 🎨 Other Tools
-
-<p align="center">
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-</p>
-
----
-
-# 📚 Currently Learning
+### 🎯 Focus
 
 ```text
-Frontend Development     ███████████████░░░░░
-Cybersecurity            ████████████░░░░░░░░
-Java                     ████████████░░░░░░░░
-Python                   ███████████░░░░░░░░░
-React                    ██████████░░░░░░░░░░
+WEB DEVELOPMENT
+      ↓
+SECURE APPLICATIONS
+      ↓
+CYBERSECURITY
+      ↓
+CONTINUOUS LEARNING
 ```
 
-I'm currently focusing on:
+**Current Goal**
 
-* React.js
-* Modern frontend development
-* Java & Python
-* Cybersecurity fundamentals
-* Secure web application concepts
-* Git & GitHub workflows
+Build practical applications while developing strong foundations in cybersecurity and software engineering.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 `02` — Technology Arsenal
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript&theme=dark"/>
+
+<br><br>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"/>
+
+<br><br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark"/>
+
+</div>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 `03` — Selected Projects
 
-### 🌐 Portfolio Website
+<table>
+<tr>
+<td width="50%">
 
-A responsive personal portfolio showcasing my **skills, projects, certificates, and achievements**.
+### 🌐 Portfolio
 
-**Tech:** HTML • CSS • JavaScript • React
+Personal developer portfolio showcasing my projects, skills, certifications and achievements.
 
-🔗 [View Portfolio](https://praveenkumar19.github.io/PORTFOLIO/)
+**Stack**
 
----
+`HTML` `CSS` `JavaScript` `React`
+
+<a href="https://praveenkumar19.github.io/PORTFOLIO/">
+View Project →
+</a>
+
+</td>
+
+<td width="50%">
 
 ### 🏥 Doctor Website
 
-A responsive healthcare website focused on a clean user interface and accessible presentation of medical services.
+Responsive healthcare website with a clean interface and modern user experience.
 
-**Tech:** HTML • CSS • JavaScript
+**Stack**
 
----
+`HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🛒 Grocery Website
 
-A modern grocery shopping interface designed with responsive layouts and user-friendly navigation.
+Modern grocery shopping interface with responsive layouts and structured product sections.
 
-**Tech:** HTML • CSS • JavaScript
+**Stack**
 
----
+`HTML` `CSS` `JavaScript`
+
+</td>
+
+<td width="50%">
 
 ### 🎓 College Website
 
-A responsive college website interface containing institutional information, departments, facilities, and other sections.
+Responsive institutional website designed to present college information and services.
 
-**Tech:** HTML • CSS • JavaScript
+**Stack**
 
----
+`HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
 
 ### 📊 Integrated Project Monitoring Platform
 
-A web-based project monitoring platform designed for tracking infrastructure projects, progress, milestones, delays, and project-related information.
+A web-based platform for monitoring infrastructure projects, milestones, progress, delays and project information.
 
-**Tech:** React • Node.js • SQLite • JavaScript
+**Stack:** `React` `Node.js` `SQLite` `JavaScript`
 
----
-
-# 🔐 Cybersecurity Interests
-
-I'm exploring cybersecurity with a focus on:
-
-* 🔒 Web Application Security
-* 🌐 Network Security
-* 🛡️ Secure Software Development
-* 🔍 Vulnerability Awareness
-* 🧪 Security Testing
-* 📡 Computer Networks
-* 🔐 Cybersecurity Fundamentals
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Statistics
+## 🔐 `04` — Cybersecurity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=praveenkumar19&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img src="https://img.shields.io/badge/Web%20Security-0f172a?style=for-the-badge&logo=hackthebox&logoColor=00e5ff"/>
+<img src="https://img.shields.io/badge/Network%20Security-0f172a?style=for-the-badge&logo=cisco&logoColor=00e5ff"/>
+<img src="https://img.shields.io/badge/Secure%20Development-0f172a?style=for-the-badge&logo=security&logoColor=00e5ff"/>
+<img src="https://img.shields.io/badge/Vulnerability%20Awareness-0f172a?style=for-the-badge&logo=dependabot&logoColor=00e5ff"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumar19&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/Computer%20Networks-0f172a?style=for-the-badge&logo=protonvpn&logoColor=00e5ff"/>
+<img src="https://img.shields.io/badge/Cybersecurity%20Fundamentals-0f172a?style=for-the-badge&logo=shield&logoColor=00e5ff"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+## 📜 `05` — Certifications & Learning
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumar19&theme=tokyonight&hide_border=true"/>
+| Certification                    | Platform     |
+| -------------------------------- | ------------ |
+| 🎓 Responsive Web Design         | freeCodeCamp |
+| ☁️ Introduction to Generative AI | Google       |
+| 🔐 Cyber Virtual Experience      | Deloitte     |
+| ⚙️ Canvas Apps with Power Apps   | Microsoft    |
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+## 📊 `06` — GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenkumar19&theme=tokyo-night&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=praveenkumar19&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&custom_title=GitHub%20Statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumar19&layout=compact&theme=github_dark&hide_border=true&custom_title=Most%20Used%20Languages"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumar19&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+## 📈 `07` — Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=praveenkumar19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenkumar19&bg_color=0d1117&color=00e5ff&line=00c6ff&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🎓 Certifications & Learning
-
-* Microsoft Applied Skills — Create and Manage Canvas Apps with Power Apps
-* freeCodeCamp — Responsive Web Design
-* Deloitte — Cyber Virtual Experience Program
-* Google — Introduction to Generative AI
-
----
-
-# 🤝 Connect With Me
+## 🏆 `08` — GitHub Achievements
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/praveen-kumar-792b8a395/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=praveenkumar19&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+
+</div>
+
+---
+
+## 🌐 `09` — Let's Connect
+
+<div align="center">
 
 <a href="https://praveenkumar19.github.io/PORTFOLIO/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/praveen-kumar-792b8a395/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/praveenkumar19">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 💡 Developer Philosophy
-
 <div align="center">
 
-> **Learn → Build → Test → Secure → Improve**
+### `SYSTEM STATUS`
 
-</div>
-
-```java
-while (learning) {
-    build();
-    solveProblems();
-    improve();
-    secure();
-}
+```text
+┌──────────────────────────────────────────┐
+│                                          │
+│   STATUS       : ONLINE                  │
+│   MODE         : LEARNING                │
+│   BUILD        : ACTIVE                  │
+│   SECURITY     : ENABLED                │
+│   OPEN SOURCE  : EXPLORING              │
+│                                          │
+└──────────────────────────────────────────┘
 ```
 
----
+<br>
 
-<div align="center">
+### **LEARN • BUILD • SECURE • REPEAT**
 
-### ⭐ Thanks for visiting my GitHub profile!
+<br>
 
-**Learning • Building • Securing • Growing 🚀**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00c6ff,50:203a43,100:0f2027"/>
 
 </div>
