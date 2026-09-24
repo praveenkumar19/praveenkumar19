@@ -1,63 +1,142 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=PRAVEEN%20KUMAR&fontAlign=50&fontAlignY=40&fontSize=60&desc=Cybersecurity%20Student%20|%20Frontend%20Developer%20|%20Web%20Developer&descAlignY=60&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=PRAVEEN%20KUMAR&fontAlign=50&fontAlignY=40&fontSize=58&desc=Cybersecurity%20Student%20%7C%20Frontend%20Developer&descAlignY=62&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Cybersecurity+Student;Java+Developer;Python+Programmer;Frontend+Developer;Open+Source+Learner;Future+Security+Engineer" />
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=praveenkumar19&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FFFF&center=true&vCenter=true&width=750&lines=Cybersecurity+Student;Frontend+Developer;Java+%26+Python+Learner;Building+Modern+Web+Applications;Exploring+Cybersecurity;Learning+%7C+Building+%7C+Securing"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=praveenkumar19&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 👋 About Me
 
-🔐 Cybersecurity Enthusiast
+Hi, I'm **Praveen Kumar**, a **B.E. CSE (Cyber Security) student** from Chennai, India.
 
-🎓 B.E CSE (Cyber Security) Student
+I enjoy building responsive web interfaces while exploring cybersecurity, programming, and secure application development.
 
-💻 Passionate about Web Development and Secure Applications
+* 🎓 B.E. CSE — Cyber Security
+* 💻 Frontend & Web Development
+* 🔐 Cybersecurity Fundamentals
+* ☕ Java Programming
+* 🐍 Python Programming
+* 🌐 Responsive Web Design
+* 🌱 Currently improving my development and cybersecurity skills
+* 🚀 Interested in building practical projects and contributing to open-source
 
-🌱 Currently Learning:
-- Web Development
-- Cybersecurity Fundamentals
-
-🎯 Goal:
-Become a Cybersecurity Engineer and contribute to Open Source Projects.
+> **Learning continuously, building practically, and developing with security in mind.**
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript" />
 </p>
 
-### Web Technologies
+### 🌐 Web Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### Tools & Platforms
+### 🔧 Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
+
+### 🎨 Other Tools
 
 <p align="center">
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
-### Core Concepts
+---
 
-- ☕ Object-Oriented Programming (Java)
-- 🔐 Cybersecurity Fundamentals
-- 🌐 Responsive Web Design
-- 🧩 Problem Solving
-- 📡 Computer Networks Basics
+# 📚 Currently Learning
+
+```text
+Frontend Development     ███████████████░░░░░
+Cybersecurity            ████████████░░░░░░░░
+Java                     ████████████░░░░░░░░
+Python                   ███████████░░░░░░░░░
+React                    ██████████░░░░░░░░░░
+```
+
+I'm currently focusing on:
+
+* React.js
+* Modern frontend development
+* Java & Python
+* Cybersecurity fundamentals
+* Secure web application concepts
+* Git & GitHub workflows
+
+---
+
+# 🚀 Featured Projects
+
+### 🌐 Portfolio Website
+
+A responsive personal portfolio showcasing my **skills, projects, certificates, and achievements**.
+
+**Tech:** HTML • CSS • JavaScript • React
+
+🔗 [View Portfolio](https://praveenkumar19.github.io/PORTFOLIO/)
+
+---
+
+### 🏥 Doctor Website
+
+A responsive healthcare website focused on a clean user interface and accessible presentation of medical services.
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+### 🛒 Grocery Website
+
+A modern grocery shopping interface designed with responsive layouts and user-friendly navigation.
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+### 🎓 College Website
+
+A responsive college website interface containing institutional information, departments, facilities, and other sections.
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+### 📊 Integrated Project Monitoring Platform
+
+A web-based project monitoring platform designed for tracking infrastructure projects, progress, milestones, delays, and project-related information.
+
+**Tech:** React • Node.js • SQLite • JavaScript
+
+---
+
+# 🔐 Cybersecurity Interests
+
+I'm exploring cybersecurity with a focus on:
+
+* 🔒 Web Application Security
+* 🌐 Network Security
+* 🛡️ Secure Software Development
+* 🔍 Vulnerability Awareness
+* 🧪 Security Testing
+* 📡 Computer Networks
+* 🔐 Cybersecurity Fundamentals
 
 ---
 
@@ -65,9 +144,9 @@ Become a Cybersecurity Engineer and contribute to Open Source Projects.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=praveenkumar19&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=praveenkumar19&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumar19&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumar19&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -77,88 +156,75 @@ Become a Cybersecurity Engineer and contribute to Open Source Projects.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumar19&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumar19&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenkumar19&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenkumar19&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📊 Profile Summary
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praveenkumar19&theme=tokyonight" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=praveenkumar19&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praveenkumar19&theme=tokyonight" />
+<img src="https://github-profile-trophy.vercel.app/?username=praveenkumar19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
 
 </div>
 
 ---
 
-# 💡 Random Developer Quote
+# 🎓 Certifications & Learning
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
+* Microsoft Applied Skills — Create and Manage Canvas Apps with Power Apps
+* freeCodeCamp — Responsive Web Design
+* Deloitte — Cyber Virtual Experience Program
+* Google — Introduction to Generative AI
 
 ---
 
-# 🌐 Connect With Me
+# 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/praveen-kumar-792b8a395/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://praveenkumar19.github.io/PORTFOLIO/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=googlechrome"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/praveenkumar19">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 💡 Developer Philosophy
 
-### 🌐 Portfolio Website
-Personal portfolio showcasing my projects, skills, and achievements.
+<div align="center">
 
-### 🏥 Doctor Website
-Responsive healthcare website built using HTML, CSS, and JavaScript.
+> **Learn → Build → Test → Secure → Improve**
 
-### 🛒 Grocery Website
-Modern grocery shopping website UI with responsive design.
-
-### 🎓 College Website
-Responsive college website interface and information portal.
-
----
-
-# ⚡ Fun Fact
+</div>
 
 ```java
-while(alive){
-    learn();
+while (learning) {
     build();
+    solveProblems();
+    improve();
     secure();
-    repeat();
 }
 ```
 
@@ -166,8 +232,8 @@ while(alive){
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my GitHub profile!
 
-### 🔐 Learning • Building • Securing 🚀
+**Learning • Building • Securing • Growing 🚀**
 
 </div>
