@@ -1,174 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=PRAVEEN%20KUMAR&fontAlign=50&fontAlignY=40&fontSize=60&desc=Cybersecurity%20Student%20|%20Frontend%20Developer%20|%20Web%20Developer&descAlignY=60&animation=twinkling"/>
+<!-- ===================== HERO ===================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Cybersecurity+Student;Java+Developer;Python+Programmer;Frontend+Developer;Open+Source+Learner;Future+Security+Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,14,16,18,20&text=PRAVEEN%20KUMAR&fontColor=ffffff&fontSize=65&fontAlignY=38&desc=CYBERSECURITY%20%7C%20FRONTEND%20%7C%20WEB%20DEVELOPMENT&descSize=18&descAlignY=58&animation=twinkling"/>
 
-<img src="https://komarev.com/ghpvc/?username=praveenkumar19&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<br>
 
-</div>
-
----
-
-# 🚀 About Me
-
-🔐 Cybersecurity Enthusiast
-
-🎓 B.E CSE (Cyber Security) Student
-
-💻 Passionate about Web Development and Secure Applications
-
-🌱 Currently Learning:
-- Web Development
-- Cybersecurity Fundamentals
-
-🎯 Goal:
-Become a Cybersecurity Engineer and contribute to Open Source Projects.
-
----
-
-# 💻 Tech Stack
-
-### Programming Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript" />
-</p>
-
-### Web Technologies
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-### Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-</p>
-
-### Core Concepts
-
-- ☕ Object-Oriented Programming (Java)
-- 🔐 Cybersecurity Fundamentals
-- 🌐 Responsive Web Design
-- 🧩 Problem Solving
-- 📡 Computer Networks Basics
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=praveenkumar19&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumar19&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumar19&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenkumar19&theme=tokyo-night" />
-
-</div>
-
----
-
-# 📊 Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praveenkumar19&theme=tokyonight" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Student+%F0%9F%94%90;Frontend+Developer+%F0%9F%92%BB;Java+%7C+Python+%7C+JavaScript;React+%26+Modern+Web+Development;Building+Secure+Web+Applications;Learning+%7C+Building+%7C+Securing+%F0%9F%9A%80" />
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=praveenkumar19&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praveenkumar19&theme=tokyonight" />
+<img src="https://komarev.com/ghpvc/?username=praveenkumar19&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💡 Random Developer Quote
+<!-- ===================== ABOUT ===================== -->
+
+## 👨‍💻 About Me
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7D7AFF&center=true&vCenter=true&width=800&lines=Turning+Ideas+into+Web+Applications;Exploring+Cybersecurity+%26+Secure+Development;Learning+Something+New+Every+Day;Building+Projects+That+Solve+Real+Problems" />
 
 </div>
 
+I'm **Praveen Kumar**, a **B.E. Computer Science and Engineering (Cyber Security) student** interested in **frontend development, cybersecurity, and secure web applications**.
+
+I enjoy building practical projects, exploring modern technologies, and continuously improving my programming and problem-solving skills.
+
+- 🎓 B.E. CSE — Cyber Security
+- 💻 Frontend & Web Developer
+- 🔐 Exploring Cybersecurity Fundamentals
+- ☕ Learning Java & Object-Oriented Programming
+- 🐍 Building programming skills with Python
+- ⚛️ Currently exploring React
+- 🌐 Interested in modern web technologies
+- 🚀 Building real-world projects
+- 🌱 Continuously learning and improving
+
 ---
 
-# 🌐 Connect With Me
+## 🎯 Current Focus
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/praveen-kumar-792b8a395/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://praveenkumar19.github.io/PORTFOLIO/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=googlechrome"/>
-</a>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-### 🌐 Portfolio Website
-Personal portfolio showcasing my projects, skills, and achievements.
-
-### 🏥 Doctor Website
-Responsive healthcare website built using HTML, CSS, and JavaScript.
-
-### 🛒 Grocery Website
-Modern grocery shopping website UI with responsive design.
-
-### 🎓 College Website
-Responsive college website interface and information portal.
-
----
-
-# ⚡ Fun Fact
-
-```java
-while(alive){
-    learn();
-    build();
-    secure();
-    repeat();
-}
-```
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-### 🔐 Learning • Building • Securing 🚀
-
-</div>
-
+```text
+        ┌─────────────────────────┐
+        │   FRONTEND DEVELOPMENT  │
+        └────────────┬────────────┘
+                     │
+                     ▼
+        ┌─────────────────────────┐
+        │ PROGRAMMING & PROBLEM   │
+        │       SOLVING            │
+        └────────────┬────────────┘
+                     │
+                     ▼
+        ┌─────────────────────────┐
+        │ CYBERSECURITY FUNDAMENTALS│
+        └────────────┬────────────┘
+                     │
+                     ▼
+        ┌─────────────────────────┐
+        │ SECURE WEB APPLICATIONS  │
+        └─────────────────────────┘
